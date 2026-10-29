@@ -1,0 +1,24 @@
+SVM SPEECH EMOTION CLASSIFICATION REPORT
+Dataset: RAVDESS audio-only speech
+Usable recordings: 1440
+Training recordings: 1080
+Testing recordings: 360
+Training actors: 02, 03, 04, 05, 06, 07, 08, 11, 13, 14, 15, 16, 18, 20, 21, 22, 23, 24
+Testing actors: 01, 09, 10, 12, 17, 19
+Accuracy: 0.3917
+
+              precision    recall  f1-score   support
+
+       angry     0.6667    0.5833    0.6222        48
+        calm     0.3750    0.2500    0.3000        48
+     disgust     0.5000    0.2708    0.3514        48
+     fearful     0.3671    0.6042    0.4567        48
+       happy     0.4848    0.3333    0.3951        48
+     neutral     0.2727    0.1250    0.1714        24
+         sad     0.2672    0.6458    0.3780        48
+   surprised     0.4286    0.1875    0.2609        48
+
+    accuracy                         0.3917       360
+   macro avg     0.4203    0.3750    0.3670       360
+weighted avg     0.4301    0.3917    0.3800       360
+

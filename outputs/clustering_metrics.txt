@@ -1,0 +1,5 @@
+K-MEANS CLUSTERING RESULTS
+Emotion labels were not used to fit K-Means.
+Number of clusters: 8
+Adjusted Rand Index: 0.0439
+Normalized Mutual Information: 0.0932
